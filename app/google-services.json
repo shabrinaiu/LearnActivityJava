@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "105416153598",
+    "firebase_url": "https://tugaspakfahrul2.firebaseio.com",
+    "project_id": "tugaspakfahrul2",
+    "storage_bucket": "tugaspakfahrul2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105416153598:android:c3c2d1e5f41da1090508af",
+        "android_client_info": {
+          "package_name": "com.example.learnactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105416153598-1jeb2sparb3v1025pgcgjv8cms4ad51c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gDE_AHrsNySkYw-EXK6BjDn5gqL4FJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105416153598-1jeb2sparb3v1025pgcgjv8cms4ad51c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105416153598:android:cd1f33bf41e78e840508af",
+        "android_client_info": {
+          "package_name": "com.example.tugaspakfahrul2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105416153598-1jeb2sparb3v1025pgcgjv8cms4ad51c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gDE_AHrsNySkYw-EXK6BjDn5gqL4FJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105416153598-1jeb2sparb3v1025pgcgjv8cms4ad51c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105416153598:android:f9f50d1d5b7c6bf30508af",
+        "android_client_info": {
+          "package_name": "pens.lab.app.belajaractivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105416153598-1jeb2sparb3v1025pgcgjv8cms4ad51c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5gDE_AHrsNySkYw-EXK6BjDn5gqL4FJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105416153598-1jeb2sparb3v1025pgcgjv8cms4ad51c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855926234686",
+    "firebase_url": "https://learnactivity-efa30.firebaseio.com",
+    "project_id": "learnactivity-efa30",
+    "storage_bucket": "learnactivity-efa30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855926234686:android:b6bb34647f329a7cbc3b6f",
+        "android_client_info": {
+          "package_name": "com.example.learnactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855926234686-r368g9j2trqr58idu41inhlftr2fqd5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnactivity",
+            "certificate_hash": "2db0df0e28cf0f5852399f5d5fe90f9f75be45a6"
+          }
+        },
+        {
+          "client_id": "855926234686-njinbije8o6lk34kq53cv5ubg4r2491g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbQfNFosLrC1OHa9Thb_QwUhB_PLhkNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855926234686-njinbije8o6lk34kq53cv5ubg4r2491g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
